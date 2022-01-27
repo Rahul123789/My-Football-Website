@@ -1,0 +1,100 @@
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: black;
+    }
+    h1 {
+        color: white;
+    }
+    h2 {
+        color: white;
+    }
+    .img {
+        color: white;
+    }
+}
+
+#links {
+    border: 5px solid orangered;
+    background-color: orange;
+    margin: 20px; 
+    padding: 10px; 
+    text-align: center;
+}
+
+a {
+    color: black;
+    margin: 30px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+.about {
+    font-size: 20px;
+}
+
+.index {
+    font-size: 20px;
+}
+
+#interset { 
+    border: 5px solid orangered;
+    background-color: orange;
+    margin: 20px;
+}
+
+#website_index {
+    border: 5px solid orangered;
+    background-color: orange;
+    margin: 20px;
+}
+
+ol {
+    text-align: center;
+    border: 5px solid orangered;
+    background-color: orange;
+    margin: 20px;
+}
+
+li {
+    padding: 5px;
+    font-size: 20px;
+}
+
+table {
+    border: 5px solid orangered;
+    background-color: orange;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+img {
+    border: 5px solid orangered;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.img {
+    font-size: 25px;
+}
